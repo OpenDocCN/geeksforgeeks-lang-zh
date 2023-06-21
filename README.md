@@ -25,7 +25,7 @@
         {color}：显示颜色
         {repo}：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         {repo}：ApacheCN 的 Github 仓库名称
 -->
@@ -38,7 +38,7 @@
 > 
 > 坚持自己的原则，对方就会失去原则。——兔斯基
 
-* [在线阅读](https://{domain}.apachecn.org)
+* [在线阅读](https://{domain}.flygon.net)
 ## 下载
 
 ### Docker
